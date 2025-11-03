@@ -1,0 +1,16 @@
+==========================================
+📝 To-Do List Web App — Requirements
+==========================================
+
+To run this project locally, ensure you have the following:
+
+1. **Visual Studio Code (VS Code)** — or any preferred text editor  
+2. **Live Server Extension (VS Code)** — to preview the app in your browser  
+3. **Modern Web Browser** — e.g., Google Chrome, Microsoft Edge, or Firefox  
+
+------------------------------------------
+💡 Notes:
+------------------------------------------
+- No extra libraries, installations, or frameworks are required.  
+- The project is built entirely using **HTML**, **CSS**, and **vanilla JavaScript**.  
+- Simply open `index.html` using Live Server to run the app instantly.

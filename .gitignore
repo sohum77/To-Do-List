@@ -1,0 +1,42 @@
+# ==========================================
+# 📝 To-Do List Web App - Git Ignore Rules
+# ==========================================
+
+# Editor / IDE
+.vscode/
+*.code-workspace
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Swap / temporary files
+*.swp
+*.tmp
+*.bak
+*.log
+
+# Node / build (if you ever add JS tooling)
+node_modules/
+dist/
+build/
+.cache/
+
+# Python envs & caches (in case you create one)
+env/
+venv/
+__pycache__/
+*.pyc
+
+# Archives
+*.zip
+*.rar
+*.7z
+
+# Optional: Screenshots folder
+# By default screenshots are NOT ignored (so they will be uploaded).
+# If you decide NOT to add screenshots to the repo, uncomment the next line:
+# Screenshots/
